@@ -4,7 +4,7 @@ quote generator project with javascript
 
 demo:https://yusufdmrc.github.io/quote-generator/
 
-via freeCodeCamp
+via https://www.freecodecamp.org/
 
 photo:https://www.pexels.com/tr-tr/
 
