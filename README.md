@@ -2,7 +2,7 @@
 quote generator project with javascript
 
 
-demo:
+demo:https://yusufdmrc.github.io/quote-generator/
 
 photos:https://www.pexels.com/tr-tr/
 via freeCodeCamp
